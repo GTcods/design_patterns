@@ -22,3 +22,4 @@ cmake --build build
 | [Abstract Factory](creational/abstract_factory/) | Matching Windows/macOS controls | `./build/abstract_factory` |
 | [Builder](creational/builder/) | Meals with optional components | `./build/builder` |
 | [Prototype](creational/prototype/) | Independent shape clones | `./build/prototype` |
+| [Singleton](creational/singleton/) | Shared application logger | `./build/singleton` |
