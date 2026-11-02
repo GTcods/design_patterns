@@ -11,3 +11,4 @@ endif()
 
 add_executable(factory_method creational/factory_method/example.cpp)
 add_executable(abstract_factory creational/abstract_factory/example.cpp)
+add_executable(builder creational/builder/example.cpp)
