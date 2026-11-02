@@ -16,4 +16,6 @@ cmake --build build
 
 ## Examples
 
-Examples and their run commands are added with each pattern.
+| Pattern | Example | Run from the repository root |
+|---|---|---|
+| [Factory Method](creational/factory_method/) | Road and sea delivery | `./build/factory_method` |
