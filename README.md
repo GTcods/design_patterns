@@ -23,3 +23,4 @@ cmake --build build
 | [Builder](creational/builder/) | Meals with optional components | `./build/builder` |
 | [Prototype](creational/prototype/) | Independent shape clones | `./build/prototype` |
 | [Singleton](creational/singleton/) | Shared application logger | `./build/singleton` |
+| [Composite](structural/composite/) | Files and nested directories | `./build/composite` |
