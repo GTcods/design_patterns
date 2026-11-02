@@ -19,3 +19,4 @@ cmake --build build
 | Pattern | Example | Run from the repository root |
 |---|---|---|
 | [Factory Method](creational/factory_method/) | Road and sea delivery | `./build/factory_method` |
+| [Abstract Factory](creational/abstract_factory/) | Matching Windows/macOS controls | `./build/abstract_factory` |
